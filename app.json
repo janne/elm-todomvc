@@ -1,6 +1,6 @@
 {
     "name": "TodoMVC in Elm",
-    "repository": "https://github.com/srid/elm-todomvc",
+    "repository": "https://github.com/janne/elm-todomvc",
     "env": {
         "ELM_COMPILE": "elm make Todo.elm --output elm.js"
     },
